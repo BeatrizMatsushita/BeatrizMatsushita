@@ -6,9 +6,13 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I work as a Front-End Developer, primarily focused on building web applications while also contributing to back-end development;
+- 💻 I work as a Front-End Developer, primarily focused on building web applications while also contributing to back-end development;
+
+- 👩‍💼 I have established a micro-enterprise to offer my services as a provider in my home country while living abroad. As a result, I am fully used to remote work;
 
 - 👩‍🎓 Recently graduated in Electrical and Computer Engineering;
+
+- 🔭 I completed an internship in the CRM field, where I gained experience in managing the Salesforce platform;
 
 - ✏️ I have hands-on experience in UX/UI Design, actively shaping successful projects on a large scale;
 
