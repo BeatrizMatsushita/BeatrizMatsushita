@@ -6,7 +6,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I work as a Front-End Developer, primarily focused on building web applications while also contributing to backend development;
+- 🔭 I work as a Front-End Developer, primarily focused on building web applications while also contributing to back-end development;
 
 - 👩‍🎓 Recently graduated in Electrical and Computer Engineering;
 
@@ -54,5 +54,6 @@
  ---
 
 ### :fire: My Stats : 
-  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BeatrizMatsushita&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizMatsushita&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
