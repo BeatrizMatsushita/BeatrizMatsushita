@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh4aXc3dTlhcnoxMDJzc2xwbG91YTU4a2N2YXhkZzFmYXI3dHR2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="400"/>
+  <p> If you're looking to quickly find my projects 👉  <a href="https://github.com/BeatrizMatsushita/Projects"> RIGHT HERE! </a> </p>
 </div>
 
 ---
