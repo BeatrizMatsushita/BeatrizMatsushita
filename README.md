@@ -52,8 +52,9 @@
   
  ### 📚 Languages and Tools I Plan to Learn :
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   </div>
  
  ---
@@ -61,4 +62,3 @@
 ### :fire: My Stats : 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BeatrizMatsushita&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizMatsushita&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
