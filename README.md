@@ -39,7 +39,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer" alt="SQLServer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="Salesforce" alt="Salesforce" width="40" height="40"/> 
@@ -50,8 +50,8 @@
 ### 📚 Languages and Tools in Learning :
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/next-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/aws-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/next/next-original.svg" title="next" alt="next" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="40" height="40"/>
   </div>
   
  ### 📚 Languages and Tools I Plan to Learn :
