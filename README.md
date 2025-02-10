@@ -7,17 +7,17 @@
 
 ### :woman_technologist: About Me :
 
-- 💻 I work as a Front-End Developer, primarily focused on building web applications while also contributing to back-end development;
+💻 I work as a Software Engineer, focusing on Full Stack development, including Next.js, TypeScript, and expanding my knowledge in cloud, architecture, and operations. I have three years of experience as a Front-End Developer, mainly working with ReactJS, HTML, CSS, JavaScript, and UX/UI Design principles.
 
-- 👩‍💼 I have established a micro-enterprise to offer my services as a provider in my home country while living abroad. As a result, I am fully used to remote work;
+🌍 I started a micro-business to offer my services remotely, while living abroad in Portugal. I am completely accustomed to working remotely.
 
-- 👩‍🎓 Recently graduated in Electrical and Computer Engineering;
+👩‍🎓 Currently a Software Engineer in training, continuing to develop my skills. Graduated in Electrical and Computer Engineering.
 
-- 🔭 I completed an internship in the CRM field, where I gained experience in managing the Salesforce platform;
+🔭 I completed an internship in the CRM field, gaining valuable experience managing the Salesforce platform.
 
-- ✏️ I have hands-on experience in UX/UI Design, actively shaping successful projects on a large scale;
+✏️ I have hands-on experience in UX/UI Design, contributing to the design of successful, user-centered projects at scale.
 
-- 🏖️ In my leisure time, I find joy in reading, writing books, traveling 💕, and spending quality moments with my friends.
+🏖️ In my leisure time, I enjoy reading, writing books, traveling, and spending quality time with my friends.
 
 - :mailbox: How to reach me in social medias: [![Linkedin Badge](https://img.shields.io/badge/-BiaBMatsu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-basilio-matsushita/)
 
@@ -26,6 +26,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/next-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -48,6 +50,8 @@
 ### 📚 Languages and Tools in Learning :
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/next-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/aws-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
   </div>
   
  ### 📚 Languages and Tools I Plan to Learn :
